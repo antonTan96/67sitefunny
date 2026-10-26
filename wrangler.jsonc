@@ -3,6 +3,9 @@
 	// Top-level configuration
 	"name": "67app",
 	"compatibility_date": "2026-10-19",
+	"assets": {
+		"directory": "build"
+	},
     "observability": {
       "enabled": true
     }
