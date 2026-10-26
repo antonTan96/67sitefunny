@@ -1,0 +1,9 @@
+{
+	"$schema": "./node_modules/wrangler/config-schema.json",
+	// Top-level configuration
+	"name": "67app",
+	"compatibility_date": "2026-10-19",
+    "observability": {
+      "enabled": true
+    }
+}
